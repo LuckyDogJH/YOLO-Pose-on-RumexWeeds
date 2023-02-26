@@ -1,0 +1,11 @@
+
+path: ../RumexWeeds_root_YOLOtxt  # dataset root dir
+train: images/train
+val: images/val
+test: images/test
+
+# Classes
+names:
+  0: obtusifolius
+  1: crispus
+  
