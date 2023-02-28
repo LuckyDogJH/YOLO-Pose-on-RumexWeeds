@@ -29,7 +29,8 @@ python3 Test.py --oks_sigma=0.2
 You can download trained model for YOLO-Pose via https://drive.google.com/drive/folders/144TTUVqCjLRmz0EYV64TO4iKM7Ny3hBi?usp=share_link
 
 # Results Visualization
-`To Do`
+![P_C.jpg](P_C.jpg)
+Link to [YOLO-HRNet](https://github.com/LuckyDogJH/YOLO-HRNet-on-RumexWeeds)
 
 # Code References
 * [YOLOv5 offical repository](https://github.com/ultralytics/yolov5)
